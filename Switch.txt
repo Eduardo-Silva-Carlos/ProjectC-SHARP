@@ -45,7 +45,7 @@ Switch (numeroDoMes)
 		mes = "Dezembro";
 	break;
 	deafult:
-		mes =" Valor dititado não confere com os dados!";
+		mes =" Valor digitado não confere com os dados!";
 	break;
 }
 Console.WriteLine(mes);
