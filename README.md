@@ -1,5 +1,5 @@
 # ProjectC-SHARP
-Primeiros passos na linguagem c-sharp .
+Estrutura de controle na linguagem c-sharp.
 
 A estrutura de decisão “switch” é utilizada para definir 
 diversos desvios no código a partir de uma variável ou 
