@@ -1,0 +1,26 @@
+/ processo para com a estrutura de desição Swtch no C# uma calculdora singela.
+ 
+// Swtch parte 2 
+ 
+	float valor1 = 10;
+	float valor2 = 2;
+	string operacao = "/";
+
+	swtch(operacao)
+ 	{
+		case "+":
+			Console.WriteLine(valor1 + valor2);
+			break;
+		case "-":
+			Console.WriteLine(valor1 - valor2);
+			break;
+		case "*":
+			Console.WriteLine(valor1 * valor2);
+			break;
+		case "/":
+			Console.WriteLine(valor / valor2);
+			default:
+			Console.WriteLine("Operação inválida!";
+			break;
+
+ 	}
