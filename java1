@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class Cond001{
+  public static void main(String[] args){
+    Scanner sc = new Sacnner(System.in);
+    
+      int age = sc.nexInt();
+       System.out.out.println("Qual é sua idade atual?");
+    
+      if(age => 19){
+       System.out.println("Apto para fazer o curso!");
+      }
+      if else(age == 18){
+       System.out.println("Aguarde a segunda chamada por e-mail.")
+      else {
+        System.out.println("Sua idade não bate com os os requisitos do curso...");
+      }
+      sc.close();
+    }
+  }  
+}
