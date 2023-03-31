@@ -15,4 +15,3 @@ seja atendida, a instrução contida no default será
 executada. 
 A palavra reservada “break” interrompe o fluxo e não realiza 
 todas as operações de comparações, incluindo o default.
-
